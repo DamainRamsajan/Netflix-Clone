@@ -2,12 +2,10 @@
   margin:0;
 }
 
-.footer {
-  
+.footer {  
   font-size: 10px;
   background-color: black;
-  height: 4vh;
-  
+  height: 4vh;  
 }
 
 .contact__info{
@@ -17,4 +15,8 @@
   justify-content: space-between;
   display: flex;
   color: aqua;
+}
+
+.app {
+  background-color: #111;
 }
